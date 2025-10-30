@@ -1,0 +1,1 @@
+Thank you for your interest in our work! This study explores the potential of indoor power lines for human activity recognition. It presents a complete workflow for analyzing field radiation, reflection, and coupling mechanisms via transmission line theory and the Hertzian dipole approximation to explain Doppler shift formation.
